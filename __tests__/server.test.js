@@ -15,7 +15,7 @@ describe('our server', () => {
         expect(results.status).toBe(200);
         expect(mockRequest.body).toBe(stor.category);
       })
-      .catch(console.error);
+      .catch(err => console.log(err));
   });
   // it('adds another item on a POST rquest to categories', ()=> {
   //   const newCategory =  { name: 'test category' };
