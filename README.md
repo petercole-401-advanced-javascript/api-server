@@ -29,8 +29,8 @@ __Version 1.0.0__
 
 - How do you run tests?
   - Using `npm test server.test.js`
-- Any tests of note?
-  - Functional server and category additions
+<!-- - Any tests of note?
+  - Functional server and category additions -->
 <!-- - Describe any tests that you did not complete, skipped, etc
   - ... -->
 
